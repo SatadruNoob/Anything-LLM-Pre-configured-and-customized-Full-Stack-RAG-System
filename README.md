@@ -377,36 +377,3 @@ Adjust to your infra and indexing strategy. [4]
 
 ***
 
-## References
-
-- AnythingLLM overview and Docker docs. [1][2]
-- API and feature docs for ingestion and workspaces. [3][7]
-- Mistral 7B model details and licensing. [6][9][10]
-- LanceDB embedding and Ollama integration examples. [4]
-- Nomic Embed Text API and configuration notes. [5][11][12]
-
-Notes:
-- Replace placeholders (paths, IDs, secrets) with real values.  
-- Ensure compliance with your organization’s data governance and PII handling policies.
-
-Citations:
-[1] What is AnythingLLM https://docs.anythingllm.com/introduction
-[2] Mintplex-Labs/anything-llm https://github.com/Mintplex-Labs/anything-llm
-[3] AnythingLLM Docs https://docs.useanything.com
-[4] Ollama Embedding Models - LanceDB https://lancedb.com/docs/integrations/embedding/ollama/
-[5] Embed Text | Nomic API Platform Documentation https://docs.nomic.ai/reference/api/embed-text-v-1-embedding-text-post
-[6] Mistral 7B https://mistral.ai/news/announcing-mistral-7b
-[7] API Access & Keys https://docs.useanything.com/features/api
-[8] mistral https://ollama.com/library/mistral
-[9] mistralai/Mistral-7B-v0.1 https://huggingface.co/mistralai/Mistral-7B-v0.1
-[10] Mistral 7B LLM https://www.promptingguide.ai/models/mistral-7b
-[11] nomic-ai/nomic-embed-text-v1 - Hugging Face https://huggingface.co/nomic-ai/nomic-embed-text-v1
-[12] Nomic Embedding | LlamaIndex Python Documentation https://developers.llamaindex.ai/python/examples/embeddings/nomic/
-[13] API Call https://docs.anythingllm.com/agent-flows/blocks/api-call
-[14] AnythingLLM | The all-in-one AI application for everyone https://anythingllm.com
-[15] Mistral 7B: A Revolutionary Breakthrough in LLMs https://datasciencedojo.com/blog/mistral-7b-emergence-in-llm/
-[16] Mintplex-Labs/anythingllm-docs https://github.com/Mintplex-Labs/anythingllm-docs
-[17] Building RAG on codebases: Part 2 - LanceDB https://lancedb.com/blog/building-rag-on-codebases-part-2/
-[18] MCP Compatibility in AnythingLLM https://docs.anythingllm.com/mcp-compatibility/overview
-[19] [BUG]: Problems while I try to use API documents upload https://github.com/Mintplex-Labs/anything-llm/issues/4523
-[20] A Step-by-Step Guide to Using and Fine-Tuning Mistral 7B https://www.datacamp.com/tutorial/mistral-7b-tutorial
