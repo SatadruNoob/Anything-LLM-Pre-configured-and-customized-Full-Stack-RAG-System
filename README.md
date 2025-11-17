@@ -1,5 +1,5 @@
-# 
-[![file-00000000163c72069e352beb38303636.png](https://i.postimg.cc/9MvVph9q/file-00000000163c72069e352beb38303636.png)](https://postimg.cc/bDHKy43z)
+#<img width="640" height="427" alt="AnythingLLM_DockerHub" src="https://github.com/user-attachments/assets/8874a7e5-f063-4a09-be14-db29502c6fea" />
+ 
 # Internal RAG Pipeline with Distributed Colab Preprocessing and AnythingLLM
 
 A production-lean deployment that ingests internal PDFs, denoises them at scale in Google Colab, and automatically embeds them into AnythingLLM (Docker) using Mistral 7B, LanceDB, and Nomic Embed Text v1. The pipeline supports GUI and REST-based ingestion, fault routing for large files, and is designed for continuous embedding automation. [1][2][3]
